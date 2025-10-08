@@ -1,0 +1,6 @@
+--find-links https://download.pytorch.org/whl/cpu
+torch
+streamlit
+numpy
+matplotlib
+pandas
